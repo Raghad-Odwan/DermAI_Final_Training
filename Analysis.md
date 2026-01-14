@@ -124,5 +124,3 @@ The small gap between training and validation accuracy indicates stable training
 ## 10. Conclusion
 The final training execution resulted in a stable trained model with consistent validation and test performance.
 The generated model weights are used directly in the inference and explainability components of the DermAI system.
-
-قولي وأنا أكمّل فورًا.
